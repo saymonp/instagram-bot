@@ -17,4 +17,5 @@ acc.login_desktop()
 fol.unfollow_target_users(50, 3600)
 
 img = r"\uil.jpg"
-posts.send_post(img, "O bot Funciona!!!", ["#bottest", "#bot", "#test", "#amongus"])
+posts.send_post(img, "O bot Funciona!!!", [
+                "#bottest", "#bot", "#test", "#amongus"])
